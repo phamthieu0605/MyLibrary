@@ -1,0 +1,49 @@
+E:\document of Thieu\C#\SaveProject\MyLibrary\MyLibrary\bin\Debug\MyLibrary.exe.config
+E:\document of Thieu\C#\SaveProject\MyLibrary\MyLibrary\bin\Debug\MyLibrary.exe
+E:\document of Thieu\C#\SaveProject\MyLibrary\MyLibrary\bin\Debug\MyLibrary.pdb
+E:\document of Thieu\C#\SaveProject\MyLibrary\MyLibrary\obj\Debug\MyLibrary.csprojAssemblyReference.cache
+E:\document of Thieu\C#\SaveProject\MyLibrary\MyLibrary\obj\Debug\MyLibrary.Welcome.resources
+E:\document of Thieu\C#\SaveProject\MyLibrary\MyLibrary\obj\Debug\MyLibrary.Properties.Resources.resources
+E:\document of Thieu\C#\SaveProject\MyLibrary\MyLibrary\obj\Debug\MyLibrary.csproj.GenerateResource.cache
+E:\document of Thieu\C#\SaveProject\MyLibrary\MyLibrary\obj\Debug\MyLibrary.csproj.CoreCompileInputs.cache
+E:\document of Thieu\C#\SaveProject\MyLibrary\MyLibrary\obj\Debug\MyLibrary.exe
+E:\document of Thieu\C#\SaveProject\MyLibrary\MyLibrary\obj\Debug\MyLibrary.pdb
+E:\document of Thieu\C#\SaveProject\MyLibrary\MyLibrary\obj\Debug\MyLibrary.LoginForm.resources
+E:\document of Thieu\C#\SaveProject\MyLibrary\MyLibrary\obj\Debug\MyLibrary.MainForm.resources
+E:\document of Thieu\C#\SaveProject\MyLibrary\MyLibrary\obj\Debug\MyLibrary.StudentForm.resources
+E:\document of Thieu\C#\SaveProject\MyLibrary\MyLibrary\obj\Debug\MyLibrary.BookForm.resources
+E:\document of Thieu\C#\SaveProject\MyLibrary\MyLibrary\obj\Debug\MyLibrary.LibrarianForm.resources
+E:\document of Thieu\C#\SaveProject\MyLibrary\MyLibrary\obj\Debug\MyLibrary.IssueBookForm.resources
+E:\MyDocuments\C#\SaveProject\MyLibrary\MyLibrary\obj\Debug\MyLibrary.csprojAssemblyReference.cache
+E:\MyDocuments\C#\SaveProject\MyLibrary\MyLibrary\obj\Debug\MyLibrary.BookForm.resources
+E:\MyDocuments\C#\SaveProject\MyLibrary\MyLibrary\obj\Debug\MyLibrary.IssueBookForm.resources
+E:\MyDocuments\C#\SaveProject\MyLibrary\MyLibrary\obj\Debug\MyLibrary.LibrarianForm.resources
+E:\MyDocuments\C#\SaveProject\MyLibrary\MyLibrary\obj\Debug\MyLibrary.LoginForm.resources
+E:\MyDocuments\C#\SaveProject\MyLibrary\MyLibrary\obj\Debug\MyLibrary.MainForm.resources
+E:\MyDocuments\C#\SaveProject\MyLibrary\MyLibrary\obj\Debug\MyLibrary.StudentForm.resources
+E:\MyDocuments\C#\SaveProject\MyLibrary\MyLibrary\obj\Debug\MyLibrary.Welcome.resources
+E:\MyDocuments\C#\SaveProject\MyLibrary\MyLibrary\obj\Debug\MyLibrary.Properties.Resources.resources
+E:\MyDocuments\C#\SaveProject\MyLibrary\MyLibrary\obj\Debug\MyLibrary.csproj.GenerateResource.cache
+E:\MyDocuments\C#\SaveProject\MyLibrary\MyLibrary\obj\Debug\MyLibrary.csproj.CoreCompileInputs.cache
+E:\MyDocuments\C#\SaveProject\MyLibrary\MyLibrary\obj\Debug\MyLibrary.exe
+E:\MyDocuments\C#\SaveProject\MyLibrary\MyLibrary\obj\Debug\MyLibrary.pdb
+E:\MyDocuments\C#\SaveProject\MyLibrary\MyLibrary\bin\Debug\MyLibrary.exe.config
+E:\MyDocuments\C#\SaveProject\MyLibrary\MyLibrary\bin\Debug\MyLibrary.exe
+E:\MyDocuments\C#\SaveProject\MyLibrary\MyLibrary\bin\Debug\MyLibrary.pdb
+E:\MyDocuments\C#\SaveProject\MyLibrary\MyLibrary\bin\Debug\MySql.Data.dll
+E:\MyDocuments\C#\SaveProject\MyLibrary\MyLibrary\bin\Debug\Google.Protobuf.dll
+E:\MyDocuments\C#\SaveProject\MyLibrary\MyLibrary\bin\Debug\Zstandard.Net.dll
+E:\MyDocuments\C#\SaveProject\MyLibrary\MyLibrary\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\MyDocuments\C#\SaveProject\MyLibrary\MyLibrary\bin\Debug\BouncyCastle.Crypto.dll
+E:\MyDocuments\C#\SaveProject\MyLibrary\MyLibrary\bin\Debug\Ubiety.Dns.Core.dll
+E:\MyDocuments\C#\SaveProject\MyLibrary\MyLibrary\bin\Debug\Renci.SshNet.dll
+E:\MyDocuments\C#\SaveProject\MyLibrary\MyLibrary\bin\Debug\System.Memory.dll
+E:\MyDocuments\C#\SaveProject\MyLibrary\MyLibrary\bin\Debug\System.Buffers.dll
+E:\MyDocuments\C#\SaveProject\MyLibrary\MyLibrary\bin\Debug\K4os.Compression.LZ4.dll
+E:\MyDocuments\C#\SaveProject\MyLibrary\MyLibrary\bin\Debug\K4os.Hash.xxHash.dll
+E:\MyDocuments\C#\SaveProject\MyLibrary\MyLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\MyDocuments\C#\SaveProject\MyLibrary\MyLibrary\bin\Debug\MySql.Data.xml
+E:\MyDocuments\C#\SaveProject\MyLibrary\MyLibrary\obj\Debug\MyLibrary.exe.config
+E:\MyDocuments\C#\SaveProject\MyLibrary\MyLibrary\obj\Debug\MyLibrary.csproj.CopyComplete
+E:\MyDocuments\C#\SaveProject\MyLibrary\MyLibrary\obj\Debug\MyLibrary.ReturnBookForm.resources
+E:\MyDocuments\C#\SaveProject\MyLibrary\MyLibrary\bin\Debug\System.Numerics.Vectors.dll
